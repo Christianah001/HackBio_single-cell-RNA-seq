@@ -4,13 +4,13 @@ Abstract: Cancer is an evolutionary disease characterized by genetic, epigenetic
 
 Keywords: Cancer evolution, Tumor heterogeneity, ScRNA-seq, scDNA-seq, scATAC-seq, Spatial transcriptomics, Multi-omics integration, Tumor microenvironment, drug resistance, liquid biopsy, personalized therapy, adaptive treatment, artificial intelligence, longitudinal sampling, cancer atlases, precision oncology, data integration, patient privacy, data equity, computational challenges
 
-#1. Introduction
+# 1. Introduction
 Cancer is a dynamic evolutionary process driven by the accumulation of genetic and epigenetic alterations within cells. These changes lead to increased cellular diversity, enabling tumors to adapt, survive, and progress in response to selective pressures such as the immune system, microenvironment, and therapy. Understanding cancer evolution helps explain tumor initiation, heterogeneity, metastasis, and resistance to treatment.
 Traditional bulk sequencing analyzes DNA or RNA from millions of cells pooled together, providing an average profile that masks underlying cellular diversity. As a result, rare but clinically important subpopulations (such as drug-resistant clones) are obscured, making it challenging to fully understand intra-tumor heterogeneity, clonal evolution, and the mechanisms of treatment failure.
 Single-cell sequencing technologies, such as scRNA-seq and scDNA-seq, emerged to overcome these limitations. They allow profiling of individual cells’ genomes, transcriptomes, or epigenetic landscapes, capturing the full extent of cellular variation in tumors. This granularity has revolutionized the study of cancer, revealing previously undetectable cell states, lineages, and microenvironmental interactions.
 Single-cell data uncovers the hidden complexity of tumors, providing insights into which cell populations drive progression, relapse, or resist therapy. It enables the identification of new biomarkers and therapeutic targets, tracks clonal evolution and lineage relationships, and informs personalized medicine strategies tailored to target the most problematic cells within each patient’s tumor.
 
-2.   Single-Cell Technologies in Cancer Research
+# 2.   Single-Cell Technologies in Cancer Research
 2.1  Single-Cell Sequencing technologies
 Single cell sequencing enables us to separately evaluate the subpopulation of cells in a cancerous tumour at the genomic, transcriptomic, epigenomic and proteomic level. This technology helps us understand tumours that exhibit varied morphological and phenotypic profiles. Additionally, SCS technologies also give us insights about cancer cell populations that contribute to treatment resistance, metastasis, and immune evasion. Over the course of years, this technology has rapidly advanced and has evolved multiple techniques, each of which have a specialized and unique purpose.
 2.2  Single-Cell RNA Sequencing (scRNA-seq)
