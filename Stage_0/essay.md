@@ -84,36 +84,35 @@ The tumor microenvironment is not a passive bystander but a dynamic co-architect
 
 
 # References
-Abbas, G. H., Khouri, E. R., Thaher, O., Taha, S., Vladimirov, M., Oviedo, R. J., . . . Pouwels, S. (2025). Predictive modeling for metastasis in oncology: current methods and future directions. 87(6), 3489-3508. doi:10.1097/ms9.0000000000003279
-Diaz-Uriarte, R., & Vasallo, C. J. P. c. b. (2019). Every which way? On predicting tumor evolution using cancer progression models. 15(8), e1007246.
-Garg, P., Malhotra, J., Kulkarni, P., Horne, D., Salgia, R., & Singhal, S. S. J. C. (2024). Emerging therapeutic strategies to overcome drug resistance in cancer cells. 16(13), 2478.
-Hao, L., & Zheng, L. J. P. (2025). Clinical significance and heterogeneity of circulating tumor cells and clusters in breast cancer subtypes. 13, e19703.
-Karthiga, B., Praneeth, K., Saravanan, V., & Rao, T. R. K. J. E. I. J. (2025). Enhancing cancer detection in medical imaging through federated learning and explainable artificial intelligence: a hybrid approach for optimized diagnostics. 31, 100751.
-Keller, L., & Pantel, K. J. N. R. C. (2019). Unravelling tumour heterogeneity by single-cell profiling of circulating tumour cells. 19(10), 553-567.
-Pulumati, A., Pulumati, A., Dwarakanath, B. S., Verma, A., & Papineni, R. V. J. C. R. (2023). Technological advancements in cancer diagnostics: Improvements and limitations. 6(2), e1764.
-Sabit, H., Arneth, B., Pawlik, T. M., Abdel-Ghany, S., Ghazy, A., Abdelazeem, R. M., . . . Alrabiah, N. A. J. P. (2025). Leveraging single-cell multi-omics to decode tumor microenvironment diversity and therapeutic resistance. 18(1), 75.
-Wang, J., Zeng, Z., Li, Z., Liu, G., Zhang, S., Luo, C., . . . Zhao, L. (2025). The clinical application of artificial intelligence in cancer precision treatment. J Transl Med, 23(1), 120. doi:10.1186/s12967-025-06139-5
-Xu, J., Liao, K., Yang, X., Wu, C., & Wu, W. J. M. c. (2021). Using single-cell sequencing technology to detect circulating tumor cells in solid tumors. 20(1), 104
-·       Argelaguet, R., Arnol, D., Bredikhin, D., Deloro, Y., Velten, B., Marioni, J. C., & Stegle, O. (2020). MOFA+: A statistical framework for comprehensive integration of multi-modal single-cell data. Genome Biology, 21(1), 111. https://doi.org/10.1186/s13059-020-02015-1
-·       Buenrostro, J. D., Wu, B., Chang, H. Y., & Greenleaf, W. J. (2015). ATAC-seq: A method for assaying chromatin accessibility genome-wide. Nature Methods, 12(10), 959–962. https://doi.org/10.1038/nmeth.3337
-·       Burgess, D. J. (2019). Spatial transcriptomics coming of age. Nature Reviews Genetics, 20(6), 317. https://doi.org/10.1038/s41576-019-0129-x
-·       Han, K., Jang, I., & Choi, J. (2021). Integrative single-cell multi-omics in cancer research. Journal of Hematology & Oncology, 14(1), 48. https://doi.org/10.1186/s13045-021-01105-2
-·       Hou, Y., Guo, H., & Li, R. (2023). Single-cell DNA sequencing in cancer: Advances and applications. Nature Reviews Genetics, 24(4), 227–247. https://doi.org/10.1038/s41576-022-00540-9
-·       Jia, G., Preussner, J., & Guo, D. (2020). Single-cell lineage tracing and trajectory inference in cancer research. Nature Communications, 11(1), 5371. https://doi.org/10.1038/s41467-020-19102-x
-·       Liu, Z., Xie, Z., & Wu, J. (2024). Spatial transcriptomics in cancer: Technologies and applications. Molecular Cancer, 23(1), 102. https://doi.org/10.1186/s12943-024-02040-9
-·       Saldana-Miranda, C., Avila-Cobos, F., & De Preter, K. (2024). Insights into tumor heterogeneity through single-cell chromatin accessibility profiling. Genome Medicine, 16(1), 25. https://doi.org/10.1186/s13073-024-01407-3
-·       Street, K., Risso, D., & Fletcher, R. B. (2018). Slingshot: Cell lineage and pseudotime inference for single-cell transcriptomics. BMC Genomics, 19(1), 477. https://doi.org/10.1186/s12864-018-4772-0
-·       Tang, F., Barbacioru, C., & Wang, Y. (2019). mRNA-Seq whole-transcriptome analysis of a single cell. Nature Methods, 6(5), 377–382. https://doi.org/10.1038/nmeth.1315
-·       Zhang, X., Lan, Y., & Xu, J. (2021). CellMarker 2.0: An updated database of manually curated cell markers in human and mouse. Journal of Experimental & Clinical Cancer Research, 40(1), 199. https://doi.org/10.1186/s13046-021-01874-1
-Aibar, S., et al. (2017). SCENIC: single-cell regulatory network inference and clustering. Nature Methods, 14(10), 983–986.
-Ståhl, P. L., et al. (2016). Visualization and analysis of gene expression in tissue sections by spatial transcriptomics. Science, 353(6294), 78-82.
-Lähnemann, D., et al. (2020). Eleven grand challenges in single-cell data science. Genome Biology, 21(1), 31.
-Gao, R., et al. (2022). A landscape of intratumoral and intertumoral heterogeneity in a patient with colorectal cancer. Nature Medicine, 28(4), 799-809.
-Kim, C., et al. (2018). Chemoresistance Evolution in Triple-Negative Breast Cancer Delineated by Single-Cell Sequencing. Cell, 173(4), 879-893.e13.
-Rozenblatt-Rosen, O., et al. (2020). The Human Tumor Atlas Network: Charting Tumor Transitions across Space and Time. Science, 367(6481), eaaw5824.
-Regev, A., et al. (2017). The Human Cell Atlas. eLife, 6, e27041.
-Jordan, N. V., et al. (2016). Single-cell profiling of circulating tumor cells in metastatic breast cancer. Journal of Clinical Oncology, 34(15_suppl), 1015.
-Suva, M. L., & Tirosh, I. (2019). The Global, Single-Cell Roadmap of Cancer. Cell, 179(7), 1479-1481.
-Beskow, L. M., et al. (2020). The Ethical Implications of the Human Tumor Atlas Network. Science, 367(6481), 978-980.
+### Abbas, G. H., Khouri, E. R., Thaher, O., Taha, S., Vladimirov, M., Oviedo, R. J., . . . Pouwels, S. (2025). Predictive modeling for metastasis in oncology: current methods and future directions. 87(6), 3489-3508. doi:10.1097/ms9.0000000000003279
+### Diaz-Uriarte, R., & Vasallo, C. J. P. c. b. (2019). Every which way? On predicting tumor evolution using cancer progression models. 15(8), e1007246.
+### Garg, P., Malhotra, J., Kulkarni, P., Horne, D., Salgia, R., & Singhal, S. S. J. C. (2024). Emerging therapeutic strategies to overcome drug resistance in cancer cells. 16(13), 2478.
+### Hao, L., & Zheng, L. J. P. (2025). Clinical significance and heterogeneity of circulating tumor cells and clusters in breast cancer subtypes. 13, e19703.
+### Karthiga, B., Praneeth, K., Saravanan, V., & Rao, T. R. K. J. E. I. J. (2025). Enhancing cancer detection in medical imaging through federated learning and explainable artificial intelligence: a hybrid approach for optimized diagnostics. 31, 100751.
+### Keller, L., & Pantel, K. J. N. R. C. (2019). Unravelling tumour heterogeneity by single-cell profiling of circulating tumour cells. 19(10), 553-567.
+### Pulumati, A., Pulumati, A., Dwarakanath, B. S., Verma, A., & Papineni, R. V. J. C. R. (2023). Technological advancements in cancer diagnostics: Improvements and limitations. 6(2), e1764.
+### Sabit, H., Arneth, B., Pawlik, T. M., Abdel-Ghany, S., Ghazy, A., Abdelazeem, R. M., . . . Alrabiah, N. A. J. P. (2025). Leveraging single-cell multi-omics to decode tumor microenvironment diversity and therapeutic resistance. 18(1), 75.
+### Wang, J., Zeng, Z., Li, Z., Liu, G., Zhang, S., Luo, C., . . . Zhao, L. (2025). The clinical application of artificial intelligence in cancer precision treatment. J Transl Med, 23(1), 120. doi:10.1186/s12967-025-06139-5
+### Xu, J., Liao, K., Yang, X., Wu, C., & Wu, W. J. M. c. (2021). Using single-cell sequencing technology to detect circulating tumor cells in solid tumors. 20(1), 104
+### Argelaguet, R., Arnol, D., Bredikhin, D., Deloro, Y., Velten, B., Marioni, J. C., & Stegle, O. (2020). MOFA+: A statistical framework for comprehensive integration of multi-modal single-cell data. Genome Biology, 21(1), 111. https://doi.org/10.1186/s13059-020-02015-1
+### Buenrostro, J. D., Wu, B., Chang, H. Y., & Greenleaf, W. J. (2015). ATAC-seq: A method for assaying chromatin accessibility genome-wide. Nature Methods, 12(10), 959–962. https://doi.org/10.1038/nmeth.3337
+### Burgess, D. J. (2019). Spatial transcriptomics coming of age. Nature Reviews Genetics, 20(6), 317. https://doi.org/10.1038/s41576-019-0129-x
+### Han, K., Jang, I., & Choi, J. (2021). Integrative single-cell multi-omics in cancer research. Journal of Hematology & Oncology, 14(1), 48. https://doi.org/10.1186/s13045-021-01105-2
+### Hou, Y., Guo, H., & Li, R. (2023). Single-cell DNA sequencing in cancer: Advances and applications. Nature Reviews Genetics, 24(4), 227–247. https://doi.org/10.1038/s41576-022-00540-9
+### Jia, G., Preussner, J., & Guo, D. (2020). Single-cell lineage tracing and trajectory inference in cancer research. Nature Communications, 11(1), 5371. https://doi.org/10.1038/s41467-020-19102-x
+### Liu, Z., Xie, Z., & Wu, J. (2024). Spatial transcriptomics in cancer: Technologies and applications. Molecular Cancer, 23(1), 102. https://doi.org/10.1186/s12943-024-02040-9
+### Saldana-Miranda, C., Avila-Cobos, F., & De Preter, K. (2024). Insights into tumor heterogeneity through single-cell chromatin accessibility profiling. Genome Medicine, 16(1), 25. https://doi.org/10.1186/s13073-024-01407-3
+### Street, K., Risso, D., & Fletcher, R. B. (2018). Slingshot: Cell lineage and pseudotime inference for single-cell transcriptomics. BMC Genomics, 19(1), 477. https://doi.org/10.1186/s12864-018-4772-0
+### Tang, F., Barbacioru, C., & Wang, Y. (2019). mRNA-Seq whole-transcriptome analysis of a single cell. Nature Methods, 6(5), 377–382. https://doi.org/10.1038/nmeth.1315
+### Zhang, X., Lan, Y., & Xu, J. (2021). CellMarker 2.0: An updated database of manually curated cell markers in human and mouse. Journal of Experimental & Clinical Cancer Research, 40(1), 199. https://doi.org/10.1186/s13046-021-01874-1
+### Aibar, S., et al. (2017). SCENIC: single-cell regulatory network inference and clustering. Nature Methods, 14(10), 983–986.
+### Ståhl, P. L., et al. (2016). Visualization and analysis of gene expression in tissue sections by spatial transcriptomics. Science, 353(6294), 78-82.
+### Lähnemann, D., et al. (2020). Eleven grand challenges in single-cell data science. Genome Biology, 21(1), 31.### Gao, R., et al. (2022). A landscape of intratumoral and intertumoral heterogeneity in a patient with colorectal cancer. Nature Medicine, 28(4), 799-809.
+### Kim, C., et al. (2018). Chemoresistance Evolution in Triple-Negative Breast Cancer Delineated by Single-Cell Sequencing. Cell, 173(4), 879-893.e13.
+### Rozenblatt-Rosen, O., et al. (2020). The Human Tumor Atlas Network: Charting Tumor Transitions across Space and Time. Science, 367(6481), eaaw5824.
+### Regev, A., et al. (2017). The Human Cell Atlas. eLife, 6, e27041.
+### Jordan, N. V., et al. (2016). Single-cell profiling of circulating tumor cells in metastatic breast cancer. Journal of Clinical Oncology, 34(15_suppl), 1015.
+### Suva, M. L., & Tirosh, I. (2019). The Global, Single-Cell Roadmap of Cancer. Cell, 179(7), 1479-1481.
+### Beskow, L. M., et al. (2020). The Ethical Implications of the Human Tumor Atlas Network. Science, 367(6481), 978-980.
 
 
