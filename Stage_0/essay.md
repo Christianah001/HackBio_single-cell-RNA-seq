@@ -1,4 +1,8 @@
-# What Single-Cell Data is Teaching us about Cancer Evolution
+# 🧬 What Single-Cell Data Is Teaching Us About Cancer Evolution
+### Author: Funmilayo Christianah Ligali
+
+## Stage Zero – HackBio Landing: Technical Writing and Appreciation of Single-Cell Genomics
+
 
 Abstract: Cancer is an evolutionary disease characterized by genetic, epigenetic, and phenotypic diversity within tumors, enabling adaptation and resistance to therapy. Traditional bulk sequencing methods obscure this complexity, but single-cell technologies—encompassing scRNA-seq, scDNA-seq, scATAC-seq, spatial transcriptomics, and multi-omics integration—now allow unprecedented resolution of tumor heterogeneity and clonal evolution. These methods illuminate how distinct subclones, phenotypic plasticity, and dynamic tumor microenvironments drive progression, metastasis, and therapeutic resistance. Insights from single-cell studies have revealed rare drug-resistant populations, reconstructed evolutionary lineages, and mapped the spatial and temporal dynamics of tumor adaptation. Despite significant computational and analytical challenges, such as high data dimensionality and integration of diverse modalities, these advances are rapidly translating into clinical applications, including real-time liquid biopsies, personalized therapy selection, and adaptive treatment strategies. Future directions emphasize integrating artificial intelligence, spatial-temporal modeling, longitudinal sampling, and comprehensive cancer atlases. Realizing the clinical potential of these technologies will require addressing ethical concerns, data equity, and patient privacy, ultimately ushering in a new era of precision oncology informed by the granular understanding of cancer evolution provided by single-cell data.
 
