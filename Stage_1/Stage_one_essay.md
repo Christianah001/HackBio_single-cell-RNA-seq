@@ -1,4 +1,6 @@
-# Advances and Applications of Single-Cell Transcriptomics in Microbial Communities
+# Task Literature Review
+# Author: Funmilayo Christianah Ligali
+# Title: Advances and Applications of Single-Cell Transcriptomics in Microbial Communities
 ## Revolutionizing Microbial Community Analysis
 Single-cell transcriptomics has revolutionized the study of microbial communities by providing unprecedented resolution of functional heterogeneity, microbial interactions, and the mechanisms underlying antibiotic resistance and mobile genetic element (MGE) activity. Unlike traditional bulk sequencing, single-cell approaches such as scRNA-seq and FISH enable detailed gene expression analysis at the individual cell level, revealing intra-species variability and subpopulation specialization within diverse environments, including the human gut microbiome.
 ## Technological Advances in Single-Cell Methods
