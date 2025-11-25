@@ -17,5 +17,7 @@ Beyond static clustering, the authors introduce trajectory analysis, which recon
 To combine multiple datasets or experimental batches, batch-effect correction methods are essential. The tutorial discusses canonical correlation analysis (CCA) and mutual nearest neighbors (MNN) algorithms for effective data integration while preserving biological variability.
 ## Conclusion
 Luecken and Theis’s tutorial provides a foundational roadmap for robust scRNA-seq analysis. By addressing each analytical stage—from QC to trajectory inference—the authors standardize best practices and encourage reproducibility in single-cell research. This paper remains a cornerstone resource for both computational biologists and experimental scientists seeking to decode cellular complexity across health and disease.
+## Reference 
+Luecken MD, Theis FJ. Current best practices in single-cell RNA-seq analysis: a tutorial. Mol Syst Biol. 2019 Jun 19;15(6):e8746. doi: 10.15252/msb.20188746. PMID: 31217225; PMCID: PMC6582955.
 
 
